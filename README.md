@@ -1,1 +1,1 @@
-https://expgolemclone.github.io/encrypted-pages/
+https://expgolemclone.github.io/encrypted-pages-gen/
